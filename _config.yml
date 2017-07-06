@@ -2,8 +2,7 @@
 title: MyPack
 subtitle: by a frequent coper
 email: gillian.e.parent@gmail.com
-description: >
-A site dedicated to coping skills.
+description: A site dedicated to coping skills.
 baseurl: "/20minsless/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:

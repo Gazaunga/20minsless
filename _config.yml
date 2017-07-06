@@ -7,7 +7,7 @@ A site dedicated to coping skills.
 baseurl: "/20minsless/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: Remington
+street_address:
 city: Baltimore
 state: MD
 zip_code: 21211

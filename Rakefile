@@ -225,3 +225,4 @@ task :transfer do
     raise "#{command} isn't a valid file transfer command."
   end
 end
+#https://github.com/gummesson/jekyll-rake-boilerplate
